@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 19
 SUBLEVEL = 289
-EXTRAVERSION = "Alpiiine-Kernel"
+EXTRAVERSION = Alpiiine
 NAME = "People's Front"
 
 # *DOCUMENTATION*
